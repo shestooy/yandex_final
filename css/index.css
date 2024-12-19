@@ -8,10 +8,6 @@ body {
     color: white;
 }
 
-.test {
-    #border: 1px solid red;
-}
-
 .header {
     display: flex;
     margin: 0 auto;
